@@ -1,0 +1,58 @@
+  #ryan{
+    width:100%;
+    height: 500px;
+    border: none;
+}
+
+h2{
+    text-align: center;
+    text-size-adjust: bold;
+
+}
+
+.travel_mainDiv{
+  border: 1px solid lightgray;
+  padding-top: 10px;
+}
+
+.travel_mainDiv img{
+  width: 75%;
+  border-radius: 15px;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+margin: 20px;
+}
+
+.achivement_head{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.achivement_head i{
+  float: right;
+}
+
+.achivement_text span{
+  color: orange;
+}
+
+.samson{
+  cursor: pointer;
+}
+
+.samson hr{
+  margin-bottom: 10px;
+
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.new{
+  margin-bottom: 20px;
+}
